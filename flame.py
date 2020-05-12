@@ -1,6 +1,8 @@
+#    http://flamesgame.appspot.com/algorithm
+#  for all the images used download from the drive :-  https://drive.google.com/folderview?id=15D372PVgSgDgRVKREfTSyFwkh3jPGNcR
+
 
 from tkinter import *    
-
 from PIL import ImageTk, Image                   #    pip install Pillow
 import os
 
